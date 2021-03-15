@@ -1,0 +1,16 @@
+{
+  "name": "bases-de-node",
+  "version": "1.0.0",
+  "description": "Obtiene archivo con la tabla deseada",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "author": "Esteban Sevilla",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
